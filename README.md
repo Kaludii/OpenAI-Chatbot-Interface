@@ -33,7 +33,7 @@ The app uses Streamlit for the user interface and the OpenAI API to access OpenA
 
 1.  Clone the repository:
 
-`git clone https://github.com/<username>/OpenAI-Chatbot.git` 
+`git clone https://github.com/Kaludii/OpenAI-Chatbot.git` 
 
 2.  Install the required packages:
 
