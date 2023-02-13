@@ -6,7 +6,7 @@ Interact with OpenAI's models in real-time using your OpenAI API. Choose from a 
 # Web App
 Click [Here](edit "Here") To View This App Online!
 
-![Image](Image)
+![Image](https://github.com/Kaludii/OpenAI-Chatbot/blob/main/images/OpenAI-Chatbot.png?raw=true)
 
 ## Features
 
