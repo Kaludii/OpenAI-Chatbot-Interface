@@ -4,7 +4,7 @@
 Interact with OpenAI's models in real-time using your OpenAI API. Choose from a selection of their best models, set the temperature and max tokens, and start a conversation. Delete the conversation at any time and start fresh.
 
 # Web App
-Click [Here](edit "Here") To View This App Online!
+Click [Here](https://kaludii-openai-chatbot-app-jd0vo6.streamlit.app/ "Here") To View This App Online!
 
 ![Image](https://github.com/Kaludii/OpenAI-Chatbot/blob/main/images/OpenAI-Chatbot.png?raw=true)
 
