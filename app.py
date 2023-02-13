@@ -9,7 +9,7 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 st.sidebar.markdown("## Configuration")
-KEY = st.sidebar.text_input("Enter your OpenAI API key")
+KEY = st.sidebar.text_input("Enter Your OpenAI API Key", placeholder="API Key", value="")
 models = ['text-davinci-003', 'text-curie-001', 'text-babbage-001', 'text-ada-001']
 model = st.sidebar.selectbox("Select a model", models, index=0)
 
@@ -53,7 +53,7 @@ def generate_answer(prompt):
     else:
         st.error("An error occurred while processing the API response. If using a model other than text-davinci-003, then lower the Max Tokens.")
 
-prompt = st.text_input("Prompt")
+prompt = st.text_input("Prompt", placeholder="Prompt Here", value="")
 if st.button("Submit"):
     generate_answer(prompt)
     with st.spinner("Waiting for the response from the bot..."):
