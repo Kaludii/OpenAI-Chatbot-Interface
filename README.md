@@ -6,7 +6,7 @@ Interact with OpenAI's GPT-3 models in real-time using your OpenAI API. Choose f
 # Web App
 Click [Here](https://kaludii-openai-chatbot-app-jd0vo6.streamlit.app/ "Here") To View This App Online!
 
-![Image](https://user-images.githubusercontent.com/63890666/220527352-d0c91d29-e0de-4e0d-9b68-dfaa00b4b6e4.png)
+![Image](https://github.com/Kaludii/OpenAI-Chatbot/blob/main/images/OpenAI-Chatbot.png?raw=true)
 
 ## Features
 
