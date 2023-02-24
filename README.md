@@ -1,5 +1,5 @@
 
-# OpenAI Chatbot
+# OpenAI Chatbot Interface
 
 Interact with OpenAI's GPT-3 models in real-time using your OpenAI API. Choose from a selection of their best models, set the temperature and max tokens, and start a conversation. Delete the conversation at any time to start fresh.
 
